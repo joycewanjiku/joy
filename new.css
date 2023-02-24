@@ -1,0 +1,19 @@
+.form{
+    float:right;
+align-items: center;
+justify-items: center;
+margin-right:841px ;
+height: 368px;
+text-size-adjust: 15px;
+padding: 40px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: powderblue;
+}
+.image3{
+margin-left: 40px;
+padding: 20px;
+width:100% ;
+}

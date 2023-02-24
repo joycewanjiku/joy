@@ -1,0 +1,46 @@
+.sign-button{
+    background-color:rgb(34, 111, 226); 
+    color:black;
+    border:none;
+    height:36px;
+    width:300px;
+    border-radius:2px;
+    cursor:pointer;
+    margin-right:10px;
+    font-size: large;
+  }
+  .login-button{
+    background-color:rgb(8, 113, 233); 
+    color:black;
+    border:none;
+    height:36px;
+    width:150px;
+    border-radius:2px;
+    font-weight: 200px;
+    font-size: larger;
+    margin-right:10px;
+  }
+  .form-style{
+      float:right;
+      align-items: center;
+      justify-items: center;
+      margin-right:342px ;
+      height: 368px;
+      font-weight: 200;
+      color: red ;
+      padding: 50px;
+  }
+  .image{
+      height: 400px;
+  }
+  .image2{
+      height: 15px;
+      margin-left: 50px;
+  }
+  .container{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(210, 210, 224);
+  }
+
+  
